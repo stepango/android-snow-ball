@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>
+	<target x="24" y="20" />
+	<bomb x="43" y="11" />
+	<ball x="3" y="26" />
+	
+	<wall x="1" y="28" type="2"/>
+	<wall x="3" y="28" type="2"/>
+	<wall x="5" y="28" type="2"/>
+	<wall x="7" y="28" type="2"/>
+	<wall x="9" y="28" type="2"/>
+	<wall x="11" y="28" type="2"/>
+	<wall x="13" y="28" type="2"/>
+	<wall x="15" y="28" type="2"/>
+	<wall x="17" y="28" type="2"/>
+	<wall x="19" y="28" type="2"/>
+	<wall x="21" y="28" type="2"/>
+	<wall x="23" y="28" type="2"/>
+	<wall x="25" y="28" type="2"/>
+	<wall x="27" y="28" type="2"/>
+	<wall x="29" y="28" type="2"/>
+	<wall x="31" y="28" type="2"/>
+	<wall x="33" y="28" type="2"/>
+	<wall x="35" y="28" type="2"/>
+	<wall x="37" y="28" type="2"/>
+	<wall x="39" y="28" type="2"/>
+	<wall x="41" y="28" type="2"/>
+	<wall x="43" y="28" type="2"/>
+	<wall x="45" y="28" type="2"/>
+	<wall x="47" y="28" type="2"/>
+	
+	<wall x="7" y="26" type="2"/>
+	<wall x="7" y="24" type="2"/>
+	<wall x="7" y="22" type="2"/>
+	<wall x="7" y="20" type="2"/>
+	<wall x="7" y="18" type="2"/>
+	<wall x="7" y="16" type="2"/>
+	<wall x="7" y="14" type="2"/>
+	<wall x="7" y="12" type="2"/>
+	<wall x="7" y="10" type="2"/>
+		
+	<wall x="9" y="10" type="2"/>
+	<wall x="11" y="10" type="2"/>
+	<wall x="13" y="10" type="2"/>
+	<wall x="15" y="10" type="2"/>
+	<wall x="17" y="10" type="2"/>
+	<wall x="19" y="10" type="2"/>
+	<wall x="21" y="10" type="2"/>
+	<wall x="23" y="10" type="2"/>
+	<wall x="25" y="10" type="2"/>
+	<wall x="27" y="10" type="2"/>
+	<wall x="29" y="10" type="2"/>
+	<wall x="31" y="10" type="2"/>
+	<wall x="33" y="10" type="2"/>
+	<wall x="35" y="10" type="2"/>
+	<wall x="37" y="10" type="2"/>
+	<wall x="39" y="10" type="2"/>
+</level>

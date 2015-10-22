@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>
+	<target x="10" y="10" />
+	<ball x="10" y="10" />
+	<bomb x="15" y="15" />
+	<wall x="10" y="20" type="2"/>
+	<wall x="10" y="22" type="2"/>
+	<wall x="10" y="24" type="2"/>
+	<wall x="10" y="26" type="2"/>
+	<wall x="20" y="22" type="3"/>
+	<wall x="30" y="22" type="3"/>
+	<wall x="40" y="22" type="3"/>
+	<wall x="25" y="11" type="3"/>
+	<wall x="35" y="11" type="3"/>
+</level>
